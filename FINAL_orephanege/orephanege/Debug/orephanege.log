@@ -1,0 +1,24 @@
+﻿  Source.cpp
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(30): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(117): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(199): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(262): warning C4129: ' ': unrecognized character escape sequence
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(268): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(344): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(416): warning C4129: ' ': unrecognized character escape sequence
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(422): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(488): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(495): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(526): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(533): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(565): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(572): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(638): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(644): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(837): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(843): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(1031): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(1037): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cherry\documents\visual studio 2015\projects\orephanege\orephanege\source.cpp(599): warning C4101: 'dd': unreferenced local variable
+  orephanege.vcxproj -> c:\users\cherry\documents\visual studio 2015\Projects\orephanege\Debug\orephanege.exe
+  orephanege.vcxproj -> c:\users\cherry\documents\visual studio 2015\Projects\orephanege\Debug\orephanege.pdb (Partial PDB)
